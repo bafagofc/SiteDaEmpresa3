@@ -1,0 +1,46 @@
+ *{
+    padding: 110;
+    margin: 110;
+ }
+ body {
+     width: 100vw;
+     height: 100vh;
+     background: linear-gradient(135deg,
+             #66ff00 50%,
+             #000000 50%);
+    align-items: baseline;
+    justify-items: center;
+ }
+.faag {
+    width: 500px;
+    justify-items: center;
+    display: flex;
+    height: 48.3vh;
+    
+}
+.texto{
+    font-size: 40px;
+    margin-top: 100px;
+}
+.botao{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 25px;
+    margin-left: 200px;
+}
+.botao1{
+    background-color: #66ff00;
+    color: #000000;
+    padding: 25px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 25px;
+    margin-left: 750px;
+    padding-right: 40px;
+    
+}
